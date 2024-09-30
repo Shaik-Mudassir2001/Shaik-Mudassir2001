@@ -1,5 +1,5 @@
 Hi, I’m Shaik Mudassir
-I am a student at the Lords Institute of Engineering and Technology in Bachelor of Engineering in Computer Science.
+I am a Graduate form Lords Institute of Engineering and Technology in Bachelor of Engineering in Computer Science.
 I am passionate about pursuing my major in Computer Science. 
 My goal is to get a job in the Mobile Application field after graduating. 
 I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. 
